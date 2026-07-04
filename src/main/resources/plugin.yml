@@ -1,0 +1,6 @@
+name: DropChance
+version: 1.0.0
+main: ru.anarchyserver.dropchance.DropChance
+api-version: 1.21
+description: Изменяет шансы выпадения ресурсов из руд
+author: AnarchyServer
